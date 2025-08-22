@@ -1,0 +1,19 @@
+Intl 
+
+1. Arti Intl
+Intl adalah paket dari dart yang berfungsi untuk membantu pengelolaan internasionalisasi (i18n) dan lokalisasi (l10n) aplikasi. Seperti pengelolaan tanggal, hari, waktu,
+lokasi, dan lain-lain.
+
+2. Penggunaan
+Buka pub.dev
+Cari intl
+Salin kode faker
+Tempel ke pubspec.yaml
+Buka proyek flutter, di main.dart tulis:
+  import: 'package:intl/intl.dart';
+
+Lalu Anda bisa menggunakannya :)
+
+3. Catatan tambahan
+Untuk mencari intl, kunjungi: pub.dev
+Untuk cara penggunaan, kunjungi url: 'https://pub.dev/packages/intl/example' 
