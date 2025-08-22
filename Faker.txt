@@ -1,0 +1,18 @@
+FAKER
+
+1. Arti Faker
+Faker adalah paket dari dart yang berfungsi untuk membuat data palsu atau dummy.
+
+2. Penggunaan
+Buka pub.dev
+Cari Faker
+Salin kode faker
+Tempel ke pubspec.yaml
+Buka proyek flutter, di main.dart tulis:
+  import: 'package:faker/faker.dart';
+
+Lalu Anda bisa menggunakannya :)
+
+3. Catatan Tambahan
+Untuk mencari faker, kunjungi: pub.dev
+Untuk cara penggunaan, kunjungi url: 'https://pub.dev/packages/faker/example' 
