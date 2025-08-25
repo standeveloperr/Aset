@@ -1,0 +1,12 @@
+P I C S U M
+// web untuk membuat gambar-gambar random
+// untuk ukuran dapat diubah lewat bagian belakang
+
+'''
+URL untuk contoh pemakaian: 'https://lipsum.app/images'
+URL untuk contoh gambar: 'https://picsum.dev/images?page_images=1'
+'''
+
+link dasar untuk contoh gambar yang tidak akan berubah: 'https://lipsum.app/random/50x50'
+
+link untuk contoh gambar yang berbeda berdasarkan tambahan index (ini mungkin berlaku untuk flutter): 'https://picsum.photos/50/50?random=$index'
